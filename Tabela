@@ -1,0 +1,129 @@
+{
+  "AllAccess": [],
+  "PlayerPermission": {
+    "hogorrrrrrrr1": {
+      "PlayerTier": 2000
+    },
+    "gabbzzx_gg": {
+      "PlayerTier": 2000
+    },
+    "iguinh_60": {
+      "PlayerTier": 2000
+    },
+    "ggg_ab2hr": {
+      "PlayerTier": 2000
+    }
+  },
+  "Characters": {
+    "Eren": {
+      "Tier": 1,
+      "PlayersPermission": [
+        "wiuuwyw",
+        "soy_moreninhoaaaa",
+        "Uwtzin_dedeus81",
+        "KaioenzoRoblox"
+      ],
+      "Icon": 100553756186052
+    },
+    "Gojo": {
+      "Tier": 2,
+      "PlayersPermission": [
+        "Uwtzin_dedeus81",
+        "oruim_criminalss"
+      ],
+      "Icon": 8088264406
+    },
+    "Itadori": {
+      "Tier": 3,
+      "PlayersPermission": [
+        "lucaskrcutxbi2"
+      ],
+      "Icon": 117679682807382
+    },
+    "Pain": {
+      "Tier": 3,
+      "PlayersPermission": [
+        "caio92632",
+        "DevNoCb",
+        "Drawm_melhor12"
+      ],
+      "Icon": 139748138521204
+    },
+    "Itachi": {
+      "Tier": 3,
+      "PlayersPermission": [],
+      "Icon": 10914362051
+    },
+    "Kokushibo": {
+      "Tier": 100,
+      "PlayersPermission": [],
+      "Icon": 136113403474126
+    },
+    "Yuji": {
+      "Tier": 3,
+      "PlayersPermission": [
+        "ARTHURtajsid",
+        "OFICIAL_GUSTAVOO"
+      ],
+      "Icon": 135745797006963
+    },
+    "Subaru": {
+      "Tier": 5,
+      "PlayersPermission": [
+        "123noob_allpro",
+        "Dari13024000"
+      ],
+      "Icon": 76661103488993
+    },
+    "Meguna": {
+      "Tier": 5,
+      "PlayersPermission": [
+        "afonsocarvalheda",
+        "I3_NoPrime",
+        "ALACALA_MALA"
+      ],
+      "Icon": 77648113264069
+    },
+    "Teen Gojo": {
+      "Tier": 5,
+      "PlayersPermission": [
+        "athosegundaria",
+        "Uwtzin_dedeus81",
+        "wiuuwyw",
+        "caio92632"
+      ],
+      "Icon": 139068401282956
+    },
+    "Zeno": {
+      "Tier": 30,
+      "PlayersPermission": [
+        "123noob_allpro"
+      ],
+      "Icon": 2771826781
+    },
+    "Mahoraga": {
+      "Tier": 15,
+      "PlayersPermission": [
+        "caio92632",
+        "sousa_0799",
+        "KaioenzoRoblox",
+        "ghabrielpro2012brlgd",
+        "sourico587"
+      ],
+      "Icon": 85882036516315
+    },
+    "Sukuna Heian": {
+      "Tier": 15,
+      "PlayersPermission": [],
+      "Icon": 75912234514247
+    },
+    "Sukuna": {
+      "Tier": 15,
+      "PlayersPermission": [
+        "caio92632"
+      ],
+      "Icon": 137823879345470
+    }
+  },
+  "Races": {}
+}
