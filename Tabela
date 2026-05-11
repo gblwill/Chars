@@ -32,6 +32,11 @@
       ],
       "Icon": 8088264406
     },
+    "Toji": {
+      "Tier": 1,
+      "PlayersPermission": [],
+      "Icon": 86865888066989
+    },
     "Itadori": {
       "Tier": 3,
       "PlayersPermission": [
