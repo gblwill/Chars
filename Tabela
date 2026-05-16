@@ -40,6 +40,11 @@
       "PlayersPermission": [],
       "Icon": 86865888066989
     },
+    "Todo": {
+      "Tier": 5,
+      "PlayersPermission": [],
+      "Icon": 81779608092469
+    },
     "Itadori": {
       "Tier": 15,
       "PlayersPermission": [
