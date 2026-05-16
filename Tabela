@@ -42,7 +42,7 @@
       "PlayersPermission": [
         "lucaskrcutxbi2"
       ],
-      "Icon": 117679682807382
+      "Icon": 89923975590507
     },
     "Pain": {
       "Tier": 3,
@@ -89,7 +89,7 @@
       ],
       "Icon": 77648113264069
     },
-    "Teen Gojo": {
+    "GojoTeen": {
       "Tier": 5,
       "PlayersPermission": [
         "athosegundaria",
@@ -121,6 +121,11 @@
       "Tier": 15,
       "PlayersPermission": [],
       "Icon": 75912234514247
+    },
+    "GojoV3": {
+      "Tier": 15,
+      "PlayersPermission": [],
+      "Icon": 74462131827337
     },
     "Sukuna": {
       "Tier": 15,
