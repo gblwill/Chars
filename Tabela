@@ -10,13 +10,16 @@
     "iguinh_60": {
       "PlayerTier": 2000
     },
+    "OFICIAL_GUSTAVOO": {
+      "PlayerTier": 2000
+    },
     "ggg_ab2hr": {
       "PlayerTier": 2000
     }
   },
   "Characters": {
     "Eren": {
-      "Tier": 1,
+      "Tier": 20,
       "PlayersPermission": [
         "wiuuwyw",
         "Uwtzin_dedeus81",
@@ -25,7 +28,7 @@
       "Icon": 100553756186052
     },
     "Gojo": {
-      "Tier": 2,
+      "Tier": 15,
       "PlayersPermission": [
         "Uwtzin_dedeus81",
         "oruim_criminalss"
@@ -38,11 +41,18 @@
       "Icon": 86865888066989
     },
     "Itadori": {
-      "Tier": 3,
+      "Tier": 15,
       "PlayersPermission": [
         "lucaskrcutxbi2"
       ],
       "Icon": 89923975590507
+    },
+    "Mahito": {
+      "Tier": 1,
+      "PlayersPermission": [
+        "lucaskrcutxbi2"
+      ],
+      "Icon": 96268371704779
     },
     "Pain": {
       "Tier": 3,
@@ -100,14 +110,14 @@
       "Icon": 139068401282956
     },
     "Zeno": {
-      "Tier": 30,
+      "Tier": 100,
       "PlayersPermission": [
         "123noob_allpro"
       ],
       "Icon": 2771826781
     },
     "Mahoraga": {
-      "Tier": 15,
+      "Tier": 100,
       "PlayersPermission": [
         "caio92632",
         "sousa_0799",
@@ -123,7 +133,7 @@
       "Icon": 75912234514247
     },
     "GojoV3": {
-      "Tier": 15,
+      "Tier": 5,
       "PlayersPermission": [],
       "Icon": 74462131827337
     },
@@ -133,7 +143,7 @@
       "Icon": 74011425921907
     },
     "Kenjaku": {
-      "Tier": 3,
+      "Tier": 5,
       "PlayersPermission": [],
       "Icon": 116406332881058
     },
