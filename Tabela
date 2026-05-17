@@ -36,13 +36,18 @@
       "Icon": 8088264406
     },
     "Toji": {
-      "Tier": 1,
-      "PlayersPermission": [],
+      "Tier": 5,
+      "PlayersPermission": [
+        "picazul70",
+        "NOOB_076202"
+      ],
       "Icon": 86865888066989
     },
-    "Todo": {
-      "Tier": 5,
-      "PlayersPermission": [],
+    "Toji": {
+      "Tier": 10,
+      "PlayersPermission": [
+        "soy_moreninhoaaaa"
+      ],
       "Icon": 81779608092469
     },
     "Itadori": {
