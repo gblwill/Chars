@@ -63,6 +63,11 @@
       ],
       "Icon": 89923975590507
     },
+    "Kira": {
+      "Tier": 5,
+      "PlayersPermission": [],
+      "Icon": 70871848269260
+    },
     "Mahito": {
       "Tier": 1,
       "PlayersPermission": [
