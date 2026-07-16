@@ -68,6 +68,11 @@
       "PlayersPermission": [],
       "Icon": 70871848269260
     },
+    "Escanor": {
+      "Tier": 5,
+      "PlayersPermission": [],
+      "Icon": 79693627247470
+    },
     "Mahito": {
       "Tier": 1,
       "PlayersPermission": [
