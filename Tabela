@@ -34,7 +34,8 @@
       "Tier": 15,
       "PlayersPermission": [
         "Uwtzin_dedeus81",
-        "oruim_criminalss"
+        "oruim_criminalss",
+        "soy_moreninhoaaaa",
       ],
       "Icon": 8088264406
     },
@@ -49,9 +50,7 @@
     },
     "Todo": {
       "Tier": 10,
-      "PlayersPermission": [
-        "soy_moreninhoaaaa"
-      ],
+      "PlayersPermission": [],
       "Icon": 81779608092469
     },
     "Itadori": {
