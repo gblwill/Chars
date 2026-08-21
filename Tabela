@@ -114,7 +114,7 @@
       "Icon": 102585951004628
     },
     "Kokushibo": {
-      "Tier": 2000,
+      "Tier": 100,
       "PlayersPermission": [],
       "Icon": 136113403474126
     },
@@ -136,7 +136,7 @@
       "Icon": 76661103488993
     },
     "Meguna": {
-      "Tier": 2000,
+      "Tier": 100,
       "PlayersPermission": [
         "afonsocarvalheda",
         "I3_NoPrime",
