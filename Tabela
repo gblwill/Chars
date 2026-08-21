@@ -36,14 +36,14 @@
       ],
       "Icon": 100553756186052
     },
-    "Gojo": {
+    "GojoV3": {
       "Tier": 15,
       "PlayersPermission": [
         "Uwtzin_dedeus81",
         "oruim_criminalss",
         "soy_morenin123y"
       ],
-      "Icon": 8088264406
+      "Icon": 74462131827337
     },
     "Toji": {
       "Tier": 5,
@@ -177,11 +177,6 @@
       "Tier": 15,
       "PlayersPermission": [],
       "Icon": 75912234514247
-    },
-    "GojoV3": {
-      "Tier": 5,
-      "PlayersPermission": [],
-      "Icon": 74462131827337
     },
     "Yuta": {
       "Tier": 3,
