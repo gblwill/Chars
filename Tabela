@@ -11,7 +11,7 @@
       "PlayerTier": 2000
     },
     "yurythgta": {
-      "PlayerTier": 2000
+      "PlayerTier": 1000
     },
     "iguinh_60": {
       "PlayerTier": 2000
@@ -114,7 +114,7 @@
       "Icon": 102585951004628
     },
     "Kokushibo": {
-      "Tier": 100,
+      "Tier": 2000,
       "PlayersPermission": [],
       "Icon": 136113403474126
     },
@@ -136,7 +136,7 @@
       "Icon": 76661103488993
     },
     "Meguna": {
-      "Tier": 5,
+      "Tier": 2000,
       "PlayersPermission": [
         "afonsocarvalheda",
         "I3_NoPrime",
