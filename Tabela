@@ -187,7 +187,9 @@
     },
     "Kenjaku": {
       "Tier": 5,
-      "PlayersPermission": [],
+      "PlayersPermission": [
+        "Vaamplixo"
+      ],
       "Icon": 116406332881058
     },
     "Sukuna": {
